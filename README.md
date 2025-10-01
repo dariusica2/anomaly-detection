@@ -7,7 +7,6 @@ This repository contains MATLAB/Octave functions for implementing an anomaly det
 ### Core Functions
 - **estimate_gaussian.m** - Estimates Gaussian distribution parameters (mean and covariance matrix) from data
 - **multivariate_gaussian.m** - Computes probability density function for multivariate Gaussian distribution
-- **gaussian_distribution.m** - *Placeholder function* - needs implementation
 - **identify_outliers.m** - Identifies outliers in dataset using optimal threshold
 
 ### Evaluation Functions
